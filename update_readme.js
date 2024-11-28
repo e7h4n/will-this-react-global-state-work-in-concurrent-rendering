@@ -20,6 +20,7 @@ const libraries = {
   simplux: '<a href="https://github.com/MrWolfZ/simplux">simplux</a>',
   'react-query': '<a href="https://react-query.tanstack.com/">react-query</a>',
   'mobx-react-lite': '<a href="https://github.com/mobxjs/mobx-react-lite">mobx-react-lite</a>',
+  rippling: '<a href="https://github.com/e7h4n/rippling">rippling</a>',
 };
 
 const numTests = 10;

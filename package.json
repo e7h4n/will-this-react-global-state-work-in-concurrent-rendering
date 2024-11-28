@@ -36,6 +36,7 @@
     "build:react-rxjs": "cross-env NAME=react-rxjs webpack",
     "build:valtio": "cross-env NAME=valtio webpack",
     "build:mobx-react-lite": "cross-env NAME=mobx-react-lite webpack",
+    "build:rippling": "cross-env NAME=rippling webpack",
     "build-all": "run-s build:*"
   },
   "keywords": [
@@ -64,6 +65,7 @@
     "react-tracked": "^1.7.11",
     "recoil": "^0.7.6",
     "redux": "^4.2.1",
+    "rippling": "^0.0.3",
     "rxjs": "^7.8.0",
     "use-atom": "^0.9.0",
     "use-context-selector": "^1.4.1",
